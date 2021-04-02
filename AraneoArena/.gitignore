@@ -72,3 +72,21 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Marketplace Packs
+Content/ParagonBoris/
+Content/ParagonCountess/
+Content/ParagonDrongo/
+Content/ParagonFengMao/
+Content/ParagonFey/
+Content/ParagonGideon/
+Content/ParagonGreystone/
+Content/ParagonGrux/
+Content/ParagonKhaimera/
+Content/ParagonLtBelica/
+Content/ParagonMorigesh/
+Content/ParagonRampage/
+Content/ParagonRevenant/
+Content/ParagonSerath/
+Content/ParagonSunWukong/
+Content/ParagonTerra/
